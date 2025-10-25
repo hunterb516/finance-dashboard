@@ -38,13 +38,13 @@ All key features are implemented and demonstrated below.
 ## 🖥️ Screenshots
 
 ### Login Page
-![Login Page](https://github.com/hunterb516/finance-dashboard/assets/login.png)
+![Login Page](https://github.com/hunterb516/finance-dashboard/docs/login.png)
 
 ### Transactions Page
-![Transactions](https://github.com/hunterb516/finance-dashboard/assets/transactions.png)
+![Transactions](https://github.com/hunterb516/finance-dashboard/docs/transactions.png)
 
 ### Dashboard Analytics
-![Dashboard](https://github.com/hunterb516/finance-dashboard/assets/dashboard.png)
+![Dashboard](https://github.com/hunterb516/finance-dashboard/docs/dashboard.png)
 
 > *Note:* The above images show the fully working prototype locally.  
 > The app was developed in a containerized environment and integrates all core backend features.
