@@ -38,7 +38,7 @@ All key features are implemented and demonstrated below.
 ## 🖥️ Screenshots
 
 ### Login Page
-![Login Page](https://github.com/hunterb516/finance-dashboard/docs/login.png)
+![Login Page](https://github.com/hunterb516/finance-dashboard/blob/main/docs/dashboard.png)
 
 ### Transactions Page
 ![Transactions](https://github.com/hunterb516/finance-dashboard/docs/transactions.png)
